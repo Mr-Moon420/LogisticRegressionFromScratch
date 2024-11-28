@@ -1,0 +1,3 @@
+The research for building this algorithm was from the book "Data Science from scratch" by Joel Grus
+The book itself avoided the use of libraries, but I have used numpy and pandas, also sickit-learn for train_test_split
+The working of the algorithm is based on Maximum Likelihood estimation. The algorithm minimizes the negative log of likelihood using gradient descent, thus maximizing the likelihood function.
